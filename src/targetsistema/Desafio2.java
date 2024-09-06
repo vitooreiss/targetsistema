@@ -23,7 +23,7 @@ public class Desafio2 {
 	}
 
 
-	public static boolean fibonacci(int n) {
+	private static boolean fibonacci(int n) {
 		if (n < 0)
 			return false;
 
